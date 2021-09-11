@@ -1,0 +1,17 @@
+{
+    "name": "graphql-node-tut",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "@prisma/client": "^3.0.2",
+        "apollo-server": "^3.3.0",
+        "graphql": "^15.5.3"
+    },
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "devDependencies": {
+        "prisma": "^3.0.2"
+    }
+}
